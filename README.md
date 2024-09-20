@@ -1,11 +1,11 @@
-<div style="width: 100%; text-align: center;">
+<!-- <div style="width: 100%; text-align: center;">
   <span style="font-weight: 700; font-size: 2rem">Abdullah Saeed</span>
   <p style="font-size: 1.2rem; padding: 0;">Full-Stack developer</p>
-  <p style="font-size: 1.12rem">Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.</p>
-</div>
-
+  <p style="font-size: 1.12rem">Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.</p> -->
+### Abdullah Saeed
+<b>Full-stack developer</b></br>
+Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.
 ## 🔨 Technologies
-
 <table>
   <thead>
       <td>🎨 Front-end</td>
@@ -44,7 +44,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
   <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/assets/images/task_management.jpg"/>
+    <img width="100%" src="/images/task_management.jpg"/>
     <div style="position: absolute; background-color: rgb(256,256,256, 0.6); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
       <h3 style="color: black; margin: 14px 0;">Task management (TaskMaster)</h3>
       <p style="color: #1a1a1a;">Allowing assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.</p>
@@ -56,7 +56,7 @@
   </div>
 
   <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/assets/images/erp_system.png"/>
+    <img width="100%" src="/images/erp_system.png"/>
     <div style="position: absolute; background-color: rgb(256,256,256, 0.6); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
       <h3 style="color: black; margin: 14px 0;">ERP system (THE ERP)</h3>
       <p style="color: #1a1a1a;">Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.</p>
@@ -68,7 +68,7 @@
   </div>
 
   <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/assets/images/social_media.png"/>
+    <img width="100%" src="/images/social_media.png"/>
     <div style="position: absolute; background-color: rgb(0,0,0, 0.4); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
       <h3 style="color: white; margin: 14px 0;">Social Media Application (Betweet)</h3>
       <p style="color: #e6e6e6;">Featuring user authentication, dark mode, and search bar for searching posts. Used JSONplaceholder API.</p>
@@ -80,7 +80,7 @@
   </div>
 
   <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/assets/images/weather_report.png"/>
+    <img width="100%" src="/images/weather_report.png"/>
     <div style="position: absolute; background-color: rgb(0,0,0, 0.4); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
       <h3 style="color: white; margin: 14px 0;">Weather Report</h3>
       <p style="color: #e6e6e6;">Utilizes the OpenWeather API to provide current conditions and multi-day forecasts</p>
