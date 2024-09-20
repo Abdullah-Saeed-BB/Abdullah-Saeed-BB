@@ -51,7 +51,6 @@ Managing products, sales reps, and sales, utilized a modular design, which make 
 Featuring user authentication, dark mode, and search bar for searching posts. Used JSONplaceholder API..<br/>
 [Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login) - [Source code](https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview)
 
-
 ### Task management (TaskMaster)
 Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.<br/>
-[Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login) - [Source code](https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview)
+[Live demo](https://abdullah-saeed-bb.github.io/weather-report/) - [Source code](https://github.com/Abdullah-Saeed-BB/weather-report)
