@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Abdullah Saeed</h3>
 </br>
-   <p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️ functional Visually appealing web applications ✨</p>
+   <p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️ functional Visually appealing web applications 🎇</p>
   
 ## 🔨 Technologies
 <table>
