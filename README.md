@@ -1,7 +1,4 @@
-<!-- <div style="width: 100%; text-align: center;">
-  <span style="font-weight: 700; font-size: 2rem">Abdullah Saeed</span>
-  <p style="font-size: 1.2rem; padding: 0;">Full-Stack developer</p>
-  <p style="font-size: 1.12rem">Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.</p> -->
+
 ### Abdullah Saeed
 <b>Full-stack developer</b></br>
 Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.
