@@ -1,17 +1,17 @@
-
-### Abdullah Saeed
-<b>Full-stack developer</b></br>
-Hello 👋, my passion for web development began at age 15 when I started creating websites and simple games. This early interest led me to pursue a career as a web developer.
+<h1 align="center">👨‍💻 Abdullah Saeed</h3>
+</br>
+   <p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️ functional Visually appealing web applications ✨</p>
+  
 ## 🔨 Technologies
 <table>
   <thead>
-      <td>🎨 Front-end</td>
-      <td>💻 Back-end</td>
-      <td>Others</td>
+      <th>🎨 Front-end</th>
+      <th>💻 Back-end</th>
+      <th>Others</th>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -21,7 +21,7 @@ Hello 👋, my passion for web development began at age 15 when I started creati
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
       </td>
-      <td>
+      <td align="center">
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
@@ -29,7 +29,7 @@ Hello 👋, my passion for web development began at age 15 when I started creati
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
       </td>
-      <td>
+      <td align="center">
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
       </td>
