@@ -37,54 +37,21 @@ Hello 👋, my passion for web development began at age 15 when I started creati
   </tbody>
 </table>
 
-## My Projects
+## Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/images/task_management.jpg"/>
-    <div style="position: absolute; background-color: rgb(256,256,256, 0.6); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
-      <h3 style="color: black; margin: 14px 0;">Task management (TaskMaster)</h3>
-      <p style="color: #1a1a1a;">Allowing assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.</p>
-      <nav style="display:flex; gap: 3rem; padding: 3px 7px;">
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://task-management-client-tan.vercel.app/login">Live demo</a>
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://github.com/Abdullah-Saeed-BB/task-management">Source code</a>
-      </nav>
-    </div>
-  </div>
+### Task management (TaskMaster)
+For managing project's tasks and assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.<br/>
+[Live demo](https://task-management-client-tan.vercel.app/login) - [Source code](https://github.com/Abdullah-Saeed-BB/task-management)
 
-  <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/images/erp_system.png"/>
-    <div style="position: absolute; background-color: rgb(256,256,256, 0.6); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
-      <h3 style="color: black; margin: 14px 0;">ERP system (THE ERP)</h3>
-      <p style="color: #1a1a1a;">Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.</p>
-      <nav style="display:flex; gap: 3rem; padding: 3px 7px;">
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://the-erp-system-nextjs.vercel.app/">Live demo</a>
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://github.com/Abdullah-Saeed-BB/the-erp-system">Source code</a>
-      </nav>
-    </div>
-  </div>
+### ERP system (THE ERP)
+Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.<br/>
+[Live demo](https://the-erp-system-nextjs.vercel.app) - [Source code](https://github.com/Abdullah-Saeed-BB/the-erp-system)
 
-  <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/images/social_media.png"/>
-    <div style="position: absolute; background-color: rgb(0,0,0, 0.4); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
-      <h3 style="color: white; margin: 14px 0;">Social Media Application (Betweet)</h3>
-      <p style="color: #e6e6e6;">Featuring user authentication, dark mode, and search bar for searching posts. Used JSONplaceholder API.</p>
-      <nav style="display:flex; gap: 3rem; padding: 3px 7px;">
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login">Live demo</a>
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview">Source code</a>
-      </nav>
-    </div>
-  </div>
+### Social Media Application (Betweet)
+Featuring user authentication, dark mode, and search bar for searching posts. Used JSONplaceholder API..<br/>
+[Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login) - [Source code](https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview)
 
-  <div style="position: relative; max-width: 500px">
-    <img width="100%" src="/images/weather_report.png"/>
-    <div style="position: absolute; background-color: rgb(0,0,0, 0.4); bottom: 7; width: 100%; padding: 0 10px 10px 10px; box-sizing: border-box;">
-      <h3 style="color: white; margin: 14px 0;">Weather Report</h3>
-      <p style="color: #e6e6e6;">Utilizes the OpenWeather API to provide current conditions and multi-day forecasts</p>
-      <nav style="display:flex; gap: 3rem; padding: 3px 7px;">
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login">Live demo</a>
-      <a style="color: #1a8cff; text-decoration: underline;" href="https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview">Source code</a>
-      </nav>
-    </div>
-  </div>
-</div>
+
+### Task management (TaskMaster)
+Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.<br/>
+[Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login) - [Source code](https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview)
