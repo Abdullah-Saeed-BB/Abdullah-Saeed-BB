@@ -1,19 +1,21 @@
 <h1 align="center">👨‍💻 Abdullah Saeed</h3>
 </br>
-   <p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️ functional Visually appealing web applications 🎇</p>
+<p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️</p>
   
 ## 🔨 Technologies
 <table>
   <thead>
+      <th>🤖 Machine Learning</th>
       <th>🎨 Front-end</th>
       <th>💻 Back-end</th>
-      <th>Others</th>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <td align="center">  
+        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+      </td>
+       <td align="center">
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -29,15 +31,15 @@
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
         <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
       </td>
-      <td align="center">
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-      </td>
     </tr>
   </tbody>
 </table>
 
 ## Projects
+
+### Digit Recognizer
+User draw a digit and the model predict what the user draw. I used Pygame for drawing system, Scikit-learn for building the model, and MNIST dataset to train the model.<br/>
+[Source code](https://github.com/Abdullah-Saeed-BB/digit_recognizer)
 
 ### Task management (TaskMaster)
 For managing project's tasks and assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.<br/>
