@@ -37,6 +37,10 @@
 
 ## Projects
 
+### Analyze Customer Churn (CChurn)
+By entering customer information the machine learning model will predict customer churn, providing the reasons, and write solutions for keeping the customer or gain the customer.
+[Live demo](https://analyze-customer-churn.onrender.com/) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-customer-churn)
+
 ### Digit Recognizer
 User draw a digit and the model predict what the user draw. I used Pygame for drawing system, Scikit-learn for building the model, and MNIST dataset to train the model.<br/>
 [Source code](https://github.com/Abdullah-Saeed-BB/digit_recognizer)
