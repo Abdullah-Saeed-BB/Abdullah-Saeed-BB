@@ -38,7 +38,7 @@
 ## Projects
 
 ### Analyze Customer Churn (CChurn)
-By entering customer information the machine learning model will predict customer churn, providing the reasons, and write solutions for keeping the customer or gain the customer.
+By entering customer information the machine learning model will predict customer churn, providing the reasons, and write solutions for keeping the customer or gain the customer.<br/>
 [Live demo](https://analyze-customer-churn.onrender.com/) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-customer-churn)
 
 ### Digit Recognizer
