@@ -37,6 +37,10 @@
 
 ## Projects
 
+### Analyze Text Sentiment
+By writing the text to the Machine learning model will predict the text sentiment and visualize the impact of each word.<br/>
+[Live demo](https://analyze-text-sentiment.onrender.com) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-text-sentiment)
+
 ### Analyze Customer Churn (CChurn)
 By entering customer information the machine learning model will predict customer churn, providing the reasons, and write solutions for keeping the customer or gain the customer.<br/>
 [Live demo](https://analyze-customer-churn.onrender.com/) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-customer-churn)
@@ -48,15 +52,3 @@ User draw a digit and the model predict what the user draw. I used Pygame for dr
 ### Task management (TaskMaster)
 For managing project's tasks and assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.<br/>
 [Live demo](https://task-management-client-tan.vercel.app/login) - [Source code](https://github.com/Abdullah-Saeed-BB/task-management)
-
-### ERP system (THE ERP)
-Managing products, sales reps, and sales, utilized a modular design, which make use this system easy.<br/>
-[Live demo](https://the-erp-system-nextjs.vercel.app) - [Source code](https://github.com/Abdullah-Saeed-BB/the-erp-system)
-
-### Social Media Application (Betweet)
-Featuring user authentication, dark mode, and search bar for searching posts. Used JSONplaceholder API..<br/>
-[Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/login) - [Source code](https://github.com/Abdullah-Saeed-BB/Betweet-social-media/tree/code_preview)
-
-### Weather Report
-Weather reporting application: Utilizes the OpenWeather API to provide current conditions and multi-day forecasts.<br/>
-[Live demo](https://abdullah-saeed-bb.github.io/weather-report/) - [Source code](https://github.com/Abdullah-Saeed-BB/weather-report)
