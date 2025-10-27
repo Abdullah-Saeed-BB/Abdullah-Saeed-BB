@@ -37,6 +37,10 @@
 
 ## Projects
 
+### WhatsApp Chatbot
+Intelligent Whatsapp chatbot using Gemini model. Answers user's questions about CreativeCut e-learning platofrm, and display customer subscription details using the subscription ID.
+[Live demo](https://api.whatsapp.com/send?phone=14155238886&text=join%20map-recognize) - [Source code](https://github.com/Abdullah-Saeed-BB/whatsapp-chatbot)
+
 ### Analyze Text Sentiment
 By writing the text to the Machine learning model will predict the text sentiment and visualize the impact of each word.<br/>
 [Live demo](https://analyze-text-sentiment.onrender.com) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-text-sentiment)
@@ -48,7 +52,3 @@ By entering customer information the machine learning model will predict custome
 ### Digit Recognizer
 User draw a digit and the model predict what the user draw. I used Pygame for drawing system, Scikit-learn for building the model, and MNIST dataset to train the model.<br/>
 [Source code](https://github.com/Abdullah-Saeed-BB/digit_recognizer)
-
-### Task management (TaskMaster)
-For managing project's tasks and assign tasks to employees, and assign them to projects, to enhanced more privacy to the projects.<br/>
-[Live demo](https://task-management-client-tan.vercel.app/login) - [Source code](https://github.com/Abdullah-Saeed-BB/task-management)
