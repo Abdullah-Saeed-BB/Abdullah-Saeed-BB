@@ -38,7 +38,7 @@
 ## Projects
 
 ### WhatsApp Chatbot
-Intelligent Whatsapp chatbot using Gemini model. Answers user's questions about CreativeCut e-learning platofrm, and display customer subscription details using the subscription ID.
+Intelligent Whatsapp chatbot using Gemini model. Answers user's questions about CreativeCut e-learning platofrm, and display customer subscription details using the subscription ID.<br/>
 [Live demo](https://api.whatsapp.com/send?phone=14155238886&text=join%20map-recognize) - [Source code](https://github.com/Abdullah-Saeed-BB/whatsapp-chatbot)
 
 ### Analyze Text Sentiment
