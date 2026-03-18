@@ -1,54 +1,14 @@
 <h1 align="center">👨‍💻 Abdullah Saeed</h3>
 </br>
-<p align="center">My foucs is Writing clean code ⌨ Efficient code to build 🏄‍♂️</p>
+<p align="center">I'm AI Engineer & Full-stack web developer, who builds complete, production-ready systems - not just models.<br>I design and develop end-to-end solutions from database to backend to frontend.</p>
+<div align="center">
   
-## 🔨 Technologies
-<table>
-  <thead>
-      <th>🤖 Machine Learning</th>
-      <th>🎨 Front-end</th>
-      <th>💻 Back-end</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">  
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-      </td>
-       <td align="center">
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-      </td>
-      <td align="center">
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-        <img width="70px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullahsaeed-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abdullah_SBB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah.saeed.b.b@gmail.com) 
 
-## Projects
+</div>
 
-### WhatsApp Chatbot
-Intelligent Whatsapp chatbot using Gemini model. Answers user's questions about CreativeCut e-learning platofrm, and display customer subscription details using the subscription ID.<br/>
-[Live demo](https://api.whatsapp.com/send?phone=14155238886&text=join%20map-recognize) - [Source code](https://github.com/Abdullah-Saeed-BB/whatsapp-chatbot)
-
-### Analyze Text Sentiment
-By writing the text to the Machine learning model will predict the text sentiment and visualize the impact of each word.<br/>
-[Live demo](https://analyze-text-sentiment.onrender.com) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-text-sentiment)
-
-### Analyze Customer Churn (CChurn)
-By entering customer information the machine learning model will predict customer churn, providing the reasons, and write solutions for keeping the customer or gain the customer.<br/>
-[Live demo](https://analyze-customer-churn.onrender.com/) - [Source code](https://github.com/Abdullah-Saeed-BB/analyze-customer-churn)
-
-### Digit Recognizer
-User draw a digit and the model predict what the user draw. I used Pygame for drawing system, Scikit-learn for building the model, and MNIST dataset to train the model.<br/>
-[Source code](https://github.com/Abdullah-Saeed-BB/digit_recognizer)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Saeed-BB&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saeed-BB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
