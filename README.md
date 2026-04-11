@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Abdullah Saeed</h1>
 <br>
 <p align="center">
-  I'm an AI Engineer & Full-stack Web Developer who builds complete, production-ready systems — not just models.<br>
+  I'm an AI Engineer & Full-stack developer who builds complete, production-ready systems — not just models.<br>
   I design and develop end-to-end solutions from database to backend to frontend.
 </p>
 
