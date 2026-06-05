@@ -47,8 +47,4 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah-Saeed-BB&theme=highcontrast&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saeed-BB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Abdullah-Saeed-BB&theme=dark" alt="GitHub Streak" /></a>
