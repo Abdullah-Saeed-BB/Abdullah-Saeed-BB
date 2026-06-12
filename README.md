@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Abdullah Saeed</h1>
 <br>
 <p align="center">
-  I'm an AI Engineer who builds complete, production-ready systems — not just models.<br>
+  I'm an AI Agent Engineer & AI Engineer who builds complete, production-ready systems — not just models.<br>
   I design and develop end-to-end solutions from database and training models to backend.
 </p>
 
